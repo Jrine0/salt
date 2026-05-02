@@ -1,0 +1,3 @@
+[workspace]
+members = ["trust_payment"]
+resolver = "2"
